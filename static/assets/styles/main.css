@@ -1,0 +1,19 @@
+table, th, td,{
+ border: 15px solid black;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%:
+  padding: 15px 60px;
+  background-color : pink;
+}
+h1{
+  background-color : red;
+}
+
+
