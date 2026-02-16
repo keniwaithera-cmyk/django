@@ -16,4 +16,43 @@ h1{
   background-color : red;
 }
 
+iframe{
+  background-color: gray;
 
+            padding: 25px;
+            width: 400px;
+            border-radius: 20px;
+            margin: 20px auto;
+            color: blue;
+}
+.ken {
+
+      justify-content: center /* Horizontal Center */
+  align-items: top;     /* Vertical Center */
+  height: 100vh;           /* Full Screen Height */
+  margin: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+
+
+}
+.mbugua{
+  background-color: lightblue;
+
+}
+
+.keni {
+
+      justify-content: center /* Horizontal Center */
+  align-items: top;     /* Vertical Center */
+  height: 100%;           /* Full Screen Height */
+  margin: 0;
+  position: absolute;
+
+  right: 0;
+  width: 100%;
+
+
+}
